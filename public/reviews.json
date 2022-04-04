@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "624b3dacff6866dfc48646f4",
+    "rating": 5,
+    "name": "Tamera Collins",
+    "review": "Their food is really amazing. You should try them out.",
+    "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "_id": "624b3dacec92dd2db499cb70",
+    "rating": 5,
+    "name": "Aisha Weeks",
+    "review": "I've experienced a great food. Really loved them.",
+    "image": "https://images.unsplash.com/photo-1485043433441-db091a258e5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "_id": "624b3dac728a7f29de8c884c",
+    "rating": 4,
+    "name": "Torres Lang",
+    "review": "Good quality. Keep up the good work and very impressive",
+    "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "_id": "624b3daccd2eafbda67374c9",
+    "rating": 3,
+    "name": "Sylvia Hunter",
+    "review": "Did't like the stake much. They should work on that.",
+    "image": "https://images.unsplash.com/photo-1563306406-e66174fa3787?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "_id": "624b3dacef8ab13c195fb955",
+    "rating": 5,
+    "name": "Wynn Baldwin",
+    "review": "What an amazing experience I had in their restaurant!",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+  },
+  {
+    "_id": "624b3dac449fd3eb86d823f5",
+    "rating": 4,
+    "name": "Kenya Stout",
+    "review": "Very good food. You should work on your interior also.",
+    "image": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80"
+  }
+]
