@@ -9,11 +9,11 @@ const Home = () => {
       <div className="px-20 flex flex-col lg:flex-row my-8">
         <div className="details-container flex-1">
           <div className="flex justify-center items-center h-full">
-            <div>
+            <div className="px-8">
               <h1 className="text-6xl font-bold text-blue-500 border-l-2 border-blue-200 pl-4">
                 Taste Our Food
               </h1>
-              <p className="px-4 mt-4 text-gray-500">
+              <p className="px-4 mt-4 text-gray-500 text-lg">
                 Come at our place and taste our food with 30% off. Wanna know
                 more about our food quality? Have a look at our customer
                 reviews.
