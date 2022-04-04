@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Review = (props) => {
+const HomePageReview = (props) => {
   const { image, review, rating } = props.review;
   return (
     <div className="h-auto flex justify-center mb-6">
@@ -23,4 +23,4 @@ const Review = (props) => {
   );
 };
 
-export default Review;
+export default HomePageReview;
